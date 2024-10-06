@@ -19,12 +19,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mib-coding&show_icons=true&bg_color=121212&title_color=00BFFF&text_color=25D366&icon_color=D3D3D3)
 
-## 🛠️ Technologies and Tools
-
-![Cypress](https://upload.wikimedia.org/wikipedia/commons/3/38/Cypress_logo.svg)
-![Selenium](https://upload.wikimedia.org/wikipedia/en/3/34/Selenium_logo.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg)
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
+https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg
 
 
