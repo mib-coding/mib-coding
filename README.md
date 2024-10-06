@@ -27,6 +27,11 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
+  <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40" style="margin-right: 20px;"/>
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
+
+  
+  
 </p>
 
-
+https://www.svgrepo.com/show/184143/java.svg
