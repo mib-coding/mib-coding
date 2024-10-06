@@ -29,9 +29,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
-
-  
-  
+  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
+  <img src="https://www.svgrepo.com/show/354238/python.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
 </p>
-
-https://www.svgrepo.com/show/184143/java.svg
