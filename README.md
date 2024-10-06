@@ -17,4 +17,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mib-coding&theme=whatsapp-dark2&card_width=467)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mib-coding&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=25D366&icon_color=D3D3D3)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mib-coding&show_icons=true&bg_color=121212&title_color=00BFFF&text_color=25D366&icon_color=D3D3D3)
