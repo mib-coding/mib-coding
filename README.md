@@ -1,16 +1,16 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi there
 
-## 🔭 Current Projects
+### 🔭 Current Projects
 - Test automation with Selenium, Cypress, and Playwright(TypeScript, Java, and Python).
 - Implementing BDD approach using Cucumber.
 
-## 🎓 Education
+### 🎓 Education
 - Master's in Informatics, TU Clausthal, Germany.
 
-## 🤝 Collaboration
+### 🤝 Collaboration
 - Looking to collaborate on test automation.
 
-## 🤔 Seeking Guidance
+### 🤔 Seeking Guidance
 - Interested in advanced test automation techniques and CI/CD pipeline integration.
 - **Ask me about**: Testing tools and techniques.
 
