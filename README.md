@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**mib-coding/mib-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Projects
+- Test automation with Selenium, Cypress, and Playwright(TypeScript, Java, and Python).
+- Implementing BDD approach using Cucumber.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- Master's in Informatics, TU Clausthal, Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Collaboration
+- Looking to collaborate on test automation.
+
+## 🤔 Seeking Guidance
+- Interested in advanced test automation techniques and CI/CD pipeline integration.
+
+## 💬 Let's Connect
+- **Ask me about**: Testing tools and techniques.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mib-coding)](https://git.io/streak-stats)
