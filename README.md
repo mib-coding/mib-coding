@@ -12,8 +12,6 @@
 
 ## 🤔 Seeking Guidance
 - Interested in advanced test automation techniques and CI/CD pipeline integration.
-
-## 💬 Let's Connect
 - **Ask me about**: Testing tools and techniques.
 
 
