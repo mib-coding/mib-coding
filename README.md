@@ -31,4 +31,6 @@
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://www.svgrepo.com/show/354238/python.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
+  <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/>
+
 </p>
